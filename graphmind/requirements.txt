@@ -1,0 +1,6 @@
+falkordb
+fastapi
+uvicorn[standard]
+streamlit
+requests
+pytest
