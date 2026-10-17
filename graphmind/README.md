@@ -43,8 +43,7 @@ python -m pip install -r requirements.txt
 
 If PowerShell blocks activation, use Command Prompt terminal and run `.venv\Scripts\activate.bat`, or ask for help before changing execution policy.
 
-Make sure the existing FalkorDB container is running. Do not remove other containers. If your existing container is named `falkordb-learning`, start it with:
-
+Make sure the existing FalkorDB container is running. Do not remove other containers. 
 ```powershell
 docker start falkordb-learning
 ```
