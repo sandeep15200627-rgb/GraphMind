@@ -2,7 +2,7 @@
 
 **Track:** Company Brain
 
-**Demo video:** 
+
 
 GraphMind is a graph-backed engineering memory prototype built with FalkorDB and a local language model. It stores engineering decisions and their related context, then retrieves graph evidence to help answer questions about previous decisions.
 
